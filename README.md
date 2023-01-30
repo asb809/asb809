@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asb809
-- 👀 I’m interested in Java, Python 
-- 🌱 I’m currently learning Data Structures and Algorithms, Python and Software Engineering
-- 💞️ I have experince of learning Java, C++
+- 👀 I'm a data scientist 
+- 🌱 I’m currently learning Data Structures and Algorithms in Python and data manuplating using Mysql 
+- 💞️ I have experties in Data Engineering, Data Science
 - 
 
 <!---
